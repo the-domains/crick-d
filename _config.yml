@@ -1,7 +1,7 @@
 name: "crick'd"
 favicon: null
-layout_spectrum: 0.21434765378944576
-typography_spectrum: 0.6674241938162595
+layout_spectrum: 0
+typography_spectrum: 0.75209
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8150687273591757
-  lightness: 0.8410004910547286
-  saturation: 0.6038950453512371
-  rhythmicContrast: 0.9672733850311488
+    - '#18222c'
+    - '#668341'
+    - '#8e9eaf'
+    - '#f6fbff'
+    - '#415538'
+  brandStrength: 0.8125
+  lightness: 0.9375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
